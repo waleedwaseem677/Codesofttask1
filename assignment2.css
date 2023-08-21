@@ -1,0 +1,163 @@
+.navbar{
+    width: auto;
+    height: 6vh;
+    border: 1px solid gray;
+}
+
+.sign-button{
+    margin-top: 2.5px;
+    margin-right: 2rem;
+    float: right;
+    text-decoration: none;
+    color: blue;
+    padding: 5px;
+    border: 1px solid blue;
+    border-radius: 3px;
+}
+
+.navbar a{
+    padding: 0.5rem;
+    padding-right: 1rem;
+    margin-right: 0.4rem;
+    float: right;
+    text-decoration: none;
+    color: black;
+}
+
+.navbar p{
+    margin: 0;
+    padding: 6px;
+    display: inline-block;
+}
+
+
+
+
+.hone{
+    font-weight: 100;
+    font-size: xx-large;
+    text-align: center;
+    margin-top: 3rem;
+}
+
+.text p{
+    margin: 0.1rem;
+    font-weight: lighter;
+    color: black;
+    padding: 0;
+    text-align: center;
+}
+
+.boxes{
+    margin-top: 2rem;
+margin-left: 20.5rem;
+}
+.box-one{
+
+    width: 12rem;
+    height: 15rem;
+    display: inline-block;
+    border: 1px solid gray;
+    border-radius: 3px;
+    margin-right: 1rem;
+}
+.box-two{
+
+    width: 12rem;
+    height: 15rem;
+    display: inline-block;
+    border: 1px solid gray;
+    border-radius: 3px;
+    margin-right: 1rem;
+}
+.box-three{
+
+    width: 12rem;
+    height: 15rem;
+    display: inline-block;
+    border: 1px solid gray;
+    border-radius: 3px;
+}
+
+.box-head{
+    width: auto;
+    height: 15%;
+    background-color: lightgrey;
+}
+
+.box-head p{
+    margin: 0;
+    text-align: center;
+    border: 1px solid gray;
+    border-radius: 1px;
+    padding: 8px;
+    border-collapse: collapse;
+}
+
+.box-body-text{
+    margin-top: 1rem;
+    margin-left: 4rem;
+    margin-bottom: 0.5rem;
+    font-size: xx-large;
+    display: inline-block;
+}
+.box-body-text1{
+    margin-top: 1rem;
+    margin-bottom: 0.5rem;
+    color: gray;
+    font-size: x-large;
+    display: inline-block;
+}
+
+.box-body-text2{
+    padding: 0;
+    border: 0;
+    margin: 0.01rem;
+    text-align: center;
+}
+
+.button{
+
+    border: 1px solid blue;
+    border-radius: 3px;
+    background-color: blue;
+    margin-left: 1.2rem;
+    margin-top: 1.5rem;
+    width: 80%;
+    height: 12%;
+}
+
+.button-text{
+    margin-top: 0.3rem;
+    text-align: center;
+    color: white;
+}
+
+
+
+.lists{
+margin-top: 1rem;
+    margin-left: 18rem;
+}
+.listone1{
+    display: inline-block;
+    margin-right: 5rem;
+    list-style: none;
+}
+
+.listtwo2{
+    display: inline-block;
+    margin-top: 0;
+    margin-right: 5rem;
+    padding-bottom: 3rem;
+    list-style: none;
+}
+.listthree3{
+    display: inline-block;
+    list-style: none;
+    
+}
+
+.listtwo2-heading{
+    margin-top: 0;
+}
